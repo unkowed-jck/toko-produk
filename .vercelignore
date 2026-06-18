@@ -1,1 +1,3 @@
 public/index.php
+vendor/
+node_modules/
